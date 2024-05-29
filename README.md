@@ -69,3 +69,27 @@ To run this project, follow these steps:
    ```sh
    git clone https://github.com/yourusername/your-repo.git
 
+### Set up Docker for Airflow
+
+Refer to the [official documentation](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html) for setting up Apache Airflow with Docker.
+
+### Configure PostgreSQL
+
+Set up PostgreSQL database and update the connection details in the Airflow DAGs.
+
+### Deploy to Azure
+
+Follow the [Azure documentation](https://docs.microsoft.com/en-us/azure/data-factory/introduction) to set up Azure Data Factory, Data Gen2, Synapse Analytics, and Databricks.
+
+### Visualize with Tableau
+
+Connect Tableau to Azure Synapse Analytics and create your dashboards.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
